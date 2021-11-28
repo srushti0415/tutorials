@@ -66,10 +66,10 @@
 
 
 //  Strings in JavaScript
-let fruit = 'apple'
-let morefruits= 'apple,banana,kiwi'
-console.log(fruit.length);
-console.log(fruit.indexOf('ppl'));
-console.log(fruit.slice(0,15));
-console.log(fruit.replace('ppl' , '222'));
-console.log(fruit.split('<3'))
+// let fruit = 'apple'
+// let morefruits= 'apple,banana,kiwi'
+// console.log(fruit.length);
+// console.log(fruit.indexOf('ppl'));
+// console.log(fruit.slice(0,15));
+// console.log(fruit.replace('ppl' , '222'));
+// console.log(fruit.split('<3'))
