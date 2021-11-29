@@ -73,3 +73,45 @@
 // console.log(fruit.slice(0,15));
 // console.log(fruit.replace('ppl' , '222'));
 // console.log(fruit.split('<3'))
+
+
+// Array :)
+// let books = ['Sherlock', 'vincenzo', 'watson'];
+// books = new Array ('Sherlock', 'vincenzo', 'watson');
+// console.log(books[2]);
+
+// books [ 1 ] = 'casanova';
+// console.log(books);
+
+// for (let i = 0 ; i< books.length; i++){
+//     console.log(books[i]);
+// };
+
+// console.log('to string', books.toString());
+// console.log(books.join (' <3 '));
+// console.log(books.pop(), books);  // remove last item 
+// console.log(books.push('vincenzoo'),books); // appends
+// books[3] = 'holmes';
+// console.log(books)              
+
+// books.shift(); // remove first eement
+// console.log(books); 
+// books.unshift ('Watson')// add 1st element in array
+// console.log(books)              
+
+// let drinks = ['coffee', 'tea' , 'juice'];
+// let allilove = books.concat(drinks);
+// console.log(allilove);
+// console.log(allilove.slice ( 3,8));
+// console.log(allilove.reverse());     
+// console.log(allilove.sort());             
+
+
+// let somenum = [3,5,7,11,4,9,56,9,69,55,30,15];
+// console.log(somenum.sort(function(a, b) {return a-b}));// sort in accessid n descending order            //   
+
+// let emptyarray = new Array ();
+// for (let num = 0;  num <11 ; num++){
+//     emptyarray.push(num);
+// }
+// console.log(emptyarray);
