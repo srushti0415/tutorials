@@ -115,3 +115,18 @@
 //     emptyarray.push(num);
 // }
 // console.log(emptyarray);
+
+
+// Objects in javascript
+// dictionaries in python
+
+let student = {
+    first: 'sherlock', last :'holmes', age: 19, height : 6.3 
+    // student
+};
+console.log(student.first);
+console.log(student.last);
+student.first = '221b'
+console.log(student.first)
+student.age++;
+console.log(student.age);
