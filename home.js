@@ -120,13 +120,42 @@
 // Objects in javascript
 // dictionaries in python
 
-let student = {
-    first: 'sherlock', last :'holmes', age: 19, height : 6.3 
-    // student
-};
-console.log(student.first);
-console.log(student.last);
-student.first = '221b'
-console.log(student.first)
-student.age++;
-console.log(student.age);
+// let student = {
+//     first: 'sherlock', last :'holmes', age: 19, height : 6.3 ,
+//     studentInfo : function () {
+//         return this.first + '\n'+ this.last  + "\n"; + this.age  }
+
+// };
+// console.log(student.first);
+// console.log(student.last);
+// student.first = '221b'
+// console.log(student.first)
+// student.age++;
+// console.log(student.age);
+// console.log(student.studentInfo());
+
+// conditionals , control flows (if else)
+// 18-35 is target
+// var age = prompt( 'hey whats ur age ?');
+// if ((age >=18) && (age <=35)) {
+//     Status ='target demo';
+//     console.log(Status);
+
+// }else {
+//     Status = 'not a audience'
+//     console.log(Status);
+// }
+
+switch(2){
+    case 6 :
+     text= 'enjoy u r holiday';
+    break;
+
+    case 7:
+    text = 'enjoy u r holiday';
+    break;
+    
+    default:
+    text = 'ohh its ur working day '
+}
+console.log(text);
