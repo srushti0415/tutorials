@@ -146,16 +146,17 @@
 //     console.log(Status);
 // }
 
-switch(2){
-    case 6 :
-     text= 'enjoy u r holiday';
-    break;
+// switch(2){
+//     case 6 :
+//      text= 'enjoy u r holiday';
+//     break;
 
-    case 7:
-    text = 'enjoy u r holiday';
-    break;
+//     case 7:
+//     text = 'enjoy u r holiday';
+//     break;
     
-    default:
-    text = 'ohh its ur working day '
-}
-console.log(text);
+//     default:
+//     text = 'ohh its ur working day '
+// }
+// console.log(text);
+
