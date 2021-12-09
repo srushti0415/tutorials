@@ -10,6 +10,7 @@ function Ageindays() {
     // console.log(Ageindays);
 };
 
+
 function reset() {
     document.getElementById('Ageindays').remove();
 }
