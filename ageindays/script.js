@@ -13,3 +13,5 @@ function Ageindays() {
 function reset() {
     document.getElementById('Ageindays').remove();
 }
+
+// /home/srushti/sru/tutorials/ageindayscd 
